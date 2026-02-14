@@ -3,24 +3,31 @@ SmartCart Clustering System is a Machine Learning project that segments customer
 
 ⚙️ Technologies & Libraries
 
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
+-Python
+
+-NumPy
+
+-Pandas
+
+-Matplotlib
+
+-Seaborn
+
+-Scikit-learn
 
 📂 Project Structure
+```
+SmartCart_Clustering_System/  
 
-SmartCart_Clustering_System/
 │
 ├── data/
 ├── notebooks/
 ├── images/
 ├── README.md
 └── .gitignore
-
+```
 👩‍💻 Author
 
-Samiksha Sengar
+Samiksha Sengar  
+
 Machine Learning Enthusiast
